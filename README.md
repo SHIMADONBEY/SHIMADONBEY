@@ -44,6 +44,7 @@ In college, I conducted research on the Traveling Salesman Problem and the Open-
 - **[GA with TSP](https://github.com/SHIMADONBEY/GAwithTSP)**: A solver that solves the Traveling Salesman Problem using genetic algorithms.
 - **[OSSP with GA](https://github.com/SHIMADONBEY/OSSPwithGA)**: A solver that solves the Open Shop Scheduling Problem using genetic algorithms.
 - **[VBA-TimSort](https://github.com/SHIMADONBEY/vba-tim-sort)**: A VBA sorting library that implements TimSort.
+- **[Track Race VBA](https://github.com/SHIMADONBEY/track-race-vba-legacy)** A **Legacy** VBA Project for Athletic Track Race Use.
 
 ### 🔗Links
 
@@ -84,6 +85,7 @@ He/Him
 - **[GA with TSP](https://github.com/SHIMADONBEY/GAwithTSP)**: 遺伝的アルゴリズムで巡回セールスマン問題を解いたやつ。
 - **[OSSP with GA](https://github.com/SHIMADONBEY/OSSPwithGA)**: 遺伝的アルゴリズムでオープンショップスケジューリング問題を解いたやつ。（卒論で一応頑張ったやつ。）
 - **[VBA-TimSort](https://github.com/SHIMADONBEY/vba-tim-sort)**: **TimSort**っていうJava や Pythonで使われている高速な並べ替えアルゴリズムをVBAのオンメモリで、実現できるように作ったやつ。
+- **[Track Race VBA](https://github.com/SHIMADONBEY/track-race-vba-legacy)** トラック競技の集計に特化したマクロ。（いろいろあって開発中止。）
 
 
 ### リンク
